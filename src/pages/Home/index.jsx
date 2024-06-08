@@ -5,7 +5,7 @@ export function Home() {
 	return (
 		<div class="home">
 			
-			<h1>Get Started building Vite-powered Preact Apps </h1>
+			<h1>Get Started building Apps </h1>
 			<section>
 				<Resource
 					title="Learn Preact"
